@@ -1,0 +1,3 @@
+﻿2022/08/05,viaggio,convegno,200
+2022/08/05,alloggio,albergo,100
+2022/08/05,vitto,cena,25
